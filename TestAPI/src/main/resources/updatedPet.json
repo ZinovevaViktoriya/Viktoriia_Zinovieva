@@ -1,0 +1,18 @@
+{
+  "id": 678767654321222890,
+  "category": {
+	"id": 0,
+	"name": "string"
+  },
+  "name": "Umka",
+  "photoUrls": [
+	"string"
+  ],
+  "tags": [
+	{
+	  "id": 0,
+	  "name": "string"
+	}
+  ],
+  "status": "available"
+}
